@@ -14,4 +14,4 @@
 
 6.[pyqt项目/hht](https://github.com/muleitian/pyqt5_small_project)
 
-7.[科大讯飞阿尔兹海默症比赛](https://github.com/muleitian/2019-)
+7.[科大讯飞阿尔兹海默症比赛/hht](https://github.com/muleitian/2019-)
