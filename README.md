@@ -3,7 +3,9 @@
 
 ### 18级总结答辩（2019/9/21）
 1.[kaggle未来销售预测/zj](https://github.com/zhangsengni12345/xiaoshouyuce?tdsourcetag=s_pctim_aiomsg)
+
 2.[kaggle手写数字识别/zj](https://github.com/zhangsengni12345/chutansjwl?tdsourcetag=s_pctim_aiomsg)
+
 3.[学习笔记/zj](https://github.com/zhangsengni12345/stnote?tdsourcetag=s_pctim_aiomsg)
 4.[集成学习及pyqt笔记/cmq](https://github.com/maer3/notes-and-codes)
 5.[爬虫/hht](https://github.com/muleitian/-pear_view)
