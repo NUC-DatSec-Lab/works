@@ -19,3 +19,5 @@
 8.[爬虫/twx](https://github.com/1807004150/chenggong)
 
 9.[文字识别（OCR）+ 网页显示/fh](https://github.com/fenghui789/OCR)
+
+10.[绿色计算机大赛数据挖掘部分/fzq](https://github.com/Aurora-fang/big-data-lab-)
